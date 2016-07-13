@@ -1,0 +1,47 @@
+[05 25 2016 21:30:39](127.0.0.1)(1) client connected
+[05 25 2016 21:30:39](0.0.0.0) server secret = ABCD
+[05 25 2016 21:30:44](127.0.0.1)(2) client connected
+[05 25 2016 21:30:44](0.0.0.0) server secret = ABCD
+[05 25 2016 21:30:49](127.0.0.1)(3) client connected
+[05 25 2016 21:30:49](0.0.0.0) server secret = ABCD
+[05 25 2016 21:30:56](127.0.0.1)(4) client connected
+[05 25 2016 21:30:56](0.0.0.0) server secret = ABCD
+[05 25 2016 21:30:57](127.0.0.1) (soc_id 7) client's guess = AAAA
+[05 25 2016 21:30:57](0.0.0.0) server's hint = [1:0]
+[05 25 2016 21:30:59](127.0.0.1) (soc_id 7) client's guess = BBBB
+[05 25 2016 21:30:59](0.0.0.0) server's hint = [1:0]
+[05 25 2016 21:31:03](127.0.0.1) (soc_id 4) client's guess = AAAA
+[05 25 2016 21:31:03](0.0.0.0) server's hint = [1:0]
+[05 25 2016 21:31:06](127.0.0.1) (soc_id 6) client's guess = BBBB
+[05 25 2016 21:31:06](0.0.0.0) server's hint = [1:0]
+[05 25 2016 21:31:09](127.0.0.1) (soc_id 5) client's guess = AAAA
+[05 25 2016 21:31:09](0.0.0.0) server's hint = [1:0]
+
+
+4 client connected
+0 client success
+0 client failure
+
+6552 KB maximum memory available determined using ru_maxrss
+64.000000 KB memory alloced via malloc
+
+User CPU Time: 0.40s
+System CPU Time: 0.46752s
+
+The PID of server is: 11823 
+
+The relevant /proc/<PID>/status information is: 
+
+: VmPeak:	  366964 kB
+: VmSize:	  301432 kB
+: VmLck:	       0 kB
+: VmPin:	       0 kB
+: VmHWM:	     932 kB
+: VmRSS:	     932 kB
+: VmData:	  295136 kB
+: VmStk:	     136 kB
+: VmExe:	      12 kB
+: VmLib:	    2012 kB
+: VmPTE:	      64 kB
+: VmSwap:	       0 kB
+: Threads:	5

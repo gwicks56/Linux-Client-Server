@@ -1,0 +1,55 @@
+[05 25 2016 21:27:56](127.0.0.1)(1) client connected
+[05 25 2016 21:27:56](0.0.0.0) server secret = ABCD
+[05 25 2016 21:28:08](127.0.0.1)(2) client connected
+[05 25 2016 21:28:08](0.0.0.0) server secret = ABCD
+[05 25 2016 21:28:10](127.0.0.1) (soc_id 5) client's guess = AAAA
+[05 25 2016 21:28:10](0.0.0.0) server's hint = [1:0]
+[05 25 2016 21:28:13](127.0.0.1) (soc_id 5) client's guess = ACDE
+[05 25 2016 21:28:13](0.0.0.0) server's hint = [1:2]
+[05 25 2016 21:28:14](127.0.0.1) (soc_id 5) client's guess = ABCD
+[05 25 2016 21:28:14](127.0.0.1)(soc_id 5) SUCCESS game over
+[05 25 2016 21:28:18](127.0.0.1) (soc_id 4) client's guess = AAAA
+[05 25 2016 21:28:18](0.0.0.0) server's hint = [1:0]
+[05 25 2016 21:28:19](127.0.0.1) (soc_id 4) client's guess = CCCC
+[05 25 2016 21:28:19](0.0.0.0) server's hint = [1:0]
+[05 25 2016 21:28:20](127.0.0.1) (soc_id 4) client's guess = DDDD
+[05 25 2016 21:28:20](0.0.0.0) server's hint = [1:0]
+[05 25 2016 21:28:21](127.0.0.1) (soc_id 4) client's guess = EEEE
+[05 25 2016 21:28:21](0.0.0.0) server's hint = [0:0]
+[05 25 2016 21:28:22](127.0.0.1) (soc_id 4) client's guess = FDDDD
+[05 25 2016 21:28:22](0.0.0.0) server's hint = [1:0]
+[05 25 2016 21:28:23](127.0.0.1) (soc_id 4) client's guess = ADFADF
+[05 25 2016 21:28:23](0.0.0.0) server's hint = [1:1]
+[05 25 2016 21:28:25](127.0.0.1) (soc_id 4) client's guess = ASSS
+[05 25 2016 21:28:26](127.0.0.1) (soc_id 4) client's guess = ACVC
+[05 25 2016 21:28:28](127.0.0.1) (soc_id 4) client's guess = ABCD
+[05 25 2016 21:28:28](127.0.0.1)(soc_id 4) SUCCESS game over
+
+
+2 client connected
+2 client success
+0 client failure
+
+6552 KB maximum memory available determined using ru_maxrss
+32.000000 KB memory alloced via malloc
+
+User CPU Time: 0.40s
+System CPU Time: 0.48773s
+
+The PID of server is: 11785 
+
+The relevant /proc/<PID>/status information is: 
+
+: VmPeak:	  153964 kB
+: VmSize:	   90568 kB
+: VmLck:	       0 kB
+: VmPin:	       0 kB
+: VmHWM:	     904 kB
+: VmRSS:	     904 kB
+: VmData:	   82136 kB
+: VmStk:	     136 kB
+: VmExe:	      12 kB
+: VmLib:	    2100 kB
+: VmPTE:	      48 kB
+: VmSwap:	       0 kB
+: Threads:	1

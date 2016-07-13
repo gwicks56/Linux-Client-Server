@@ -1,0 +1,27 @@
+
+
+0 client connected
+0 client success
+0 client failure
+
+6556 KB maximum memory available determined using ru_maxrss
+User CPU Time: 0.40s
+System CPU Time: 0.42408s
+
+The PID of server is: 19090 
+
+The relevant /proc/<PID>/status information is: 
+
+: VmPeak:	    6500 kB
+: VmSize:	    6500 kB
+: VmLck:	       0 kB
+: VmPin:	       0 kB
+: VmHWM:	     664 kB
+: VmRSS:	     664 kB
+: VmData:	     204 kB
+: VmStk:	     136 kB
+: VmExe:	      12 kB
+: VmLib:	    2012 kB
+: VmPTE:	      36 kB
+: VmSwap:	       0 kB
+: Threads:	1
